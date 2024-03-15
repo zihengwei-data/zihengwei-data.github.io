@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Ziheng Wei / WHU"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Ziheng Wei"
 description              : &description "personal description"
 url                      : https://zihengwei-data.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
