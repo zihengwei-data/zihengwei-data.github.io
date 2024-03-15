@@ -18,7 +18,7 @@ Research Directions
   * No-/low-code data transformation
   * ETL pipeline optimization 
 * Data Quality: 
-  * Design, generate, catalog and recommend data quality rules
+  * Design, generate, and recommend data quality rules
   * Syntactical & semantic data cleaning
   * Streaming data quality
 * Data Analysis:
