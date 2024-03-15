@@ -14,17 +14,18 @@ I am looking for master(research/professional) and Ph.D. students in Computer Sc
 Research Directions
 ======
 * Data Integration & Preparation:
-  * Integrate data from heterogenious schemata, sources and modalities
-  * No-/low-code data transformation
-  * ETL pipeline optimization 
+  * Integrate data from heterogenious schemata, sources and modalities
+  * No-/low-code data transformation
+  * ETL pipeline optimization 
 * Data Quality: 
-  * Design, generate, catalog and recommend data quality rules
-  * Syntactical & semantic data cleaning
-  * Streaming data quality
+  * Design, generate, catalog and recommend data quality rules
+  * Syntactical & semantic data cleaning
+  * Streaming data quality
 * Data Analysis:
-  * Analytical query acceleration
-  * Explore data analysis
-  * Multidimentional aetric Analysis
+  * Analytical query acceleration
+  * Explore data analysis
+  * Multidimentional aetric Analysis
 * Data Intelligence Agent
-  * Governance solution generation & reasoning 
-  * Analytical report generation & reasoning
+  * Governance solution generation & reasoning 
+  * Analytical report generation & reasoning
+  * NL2SQL for data analysis & transformation
