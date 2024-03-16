@@ -12,7 +12,7 @@ I am currently appointed as a Professor at the School of Computer Science, Wuhan
 
 Join My Research Quest
 ======
-I am seeking motivated master’s (research/professional) and Ph.D. candidates in Computer Science who share a passion for data. My research group maintains close collaborations with leading technology companies, offering a wealth of practical research opportunities, including co-supervised projects and internships. Interested candidates are encouraged to submit their CV to ziheng.wei@whu.edu.cn. For a more in-depth discussion or to address specific inquiries, you are welcome to schedule an appointment with me via my email.
+I am seeking motivated master’s (research/professional) and Ph.D. candidates in Computer Science who share a passion for data. My research group maintains close collaborations with leading technology companies, offering a wealth of practical research opportunities, including co-supervised projects and internships with these companies. Interested candidates are encouraged to submit their CV to ziheng.wei@whu.edu.cn. For a more in-depth discussion or to address specific inquiries, you are welcome to schedule an appointment with me via my email.
 
 
 Potential Research Directions
