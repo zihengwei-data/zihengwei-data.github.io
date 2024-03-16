@@ -7,9 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I received my Ph.D. in Computer Science from the University of Auckland, New Zealand. I previously worked at the University of Auckland as a Post-doc Research Fellow for data quality and data mining research. I also worked at Huawei Cloud as a principle researcher for big data management and analytics research. I published more 20 academic papers at top venues of data mining and data management including TODS, SIGMOD, VLDB J., VLDB and ICDE. My main research focuses on developing new theories, scalable algorithms and intelligent applications to solve industry-critical problems of big data, such as relational data schema design, query acceleration, data quality, data integration, business intelligence(decision support system) and etc..
+I am currently appointed as a Professor at the School of Computer Science, Wuhan University. I received my Ph.D. in Computer Science from the University of Auckland, New Zealand. During my tenure at the same university, I served as a Postdoctoral Research Fellow, focusing on data quality and data mining research. I also joined Huawei Cloud as a Principal Researcher, where I led research in big data management and analytics. I have published over 20 academic papers in prestigious journals and conferences related to data mining and data management, such as TODS, SIGMOD, VLDB J., VLDB, and ICDE. My research primarily revolves around the development of novel theories, scalable algorithms, and intelligent applications to address pressing industrial challenges associated with big data. These challenges include relational data schema design, query acceleration, data quality, data integration, and business intelligence (decision support systems), among others.
 
-I am looking for master(research/professional) and Ph.D. students in Computer Science who are passionate about data. My research group will closely collaborate with leading tech companies and provide various practical research opportunities such as co-supervised projects and internships. If you are interested, feel free to drop your CV to ziheng.wei@whu.edu.cn. You are also welcome to book a meeting with me. 
+
+Join My Research Quest
+======
+I am seeking motivated master’s (research/professional) and Ph.D. candidates in Computer Science who share a passion for data. My research group maintains close collaborations with leading technology companies, offering a wealth of practical research opportunities, including co-supervised projects and internships. Interested candidates are encouraged to submit their CV to ziheng.wei@whu.edu.cn. For a more in-depth discussion or to address specific inquiries, you are welcome to schedule an appointment with me via my email.
+
 
 Research Directions
 ======
