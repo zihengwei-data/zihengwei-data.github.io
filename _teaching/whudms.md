@@ -2,7 +2,7 @@
 title: "Data Management Systems (Under development)"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/
+permalink: /teaching/whudms
 venue: "Wuhan University, the School of Computer Science"
 date: 2025-09-01
 location: "Wuhan, China"
