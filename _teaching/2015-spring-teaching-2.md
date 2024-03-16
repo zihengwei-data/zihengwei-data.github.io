@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "Data Management Systems (Under development)"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate course"
+permalink: /teaching
+venue: "Wuhan University, the School of Computer Science"
+date: 2024-09-01
+location: "Wuhan, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+<!-- This is a description of a teaching experience. You can use markdown like any other post.
 
 Heading 1
 ======
@@ -17,4 +17,4 @@ Heading 2
 ======
 
 Heading 3
-======
+====== -->
